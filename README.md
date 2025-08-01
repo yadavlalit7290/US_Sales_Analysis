@@ -95,7 +95,7 @@ This project integrates multiple structured datasets:
 ## 🚀 How to Use This Project
 
 ### Python EDA Notebook
-- Refer to `EDA_1_2.pdf` and the Jupyter notebooks for full code, comments, and analytics breakdowns.
+- Refer to `EDA_1.pdf` and the Jupyter notebooks for full code, comments, and analytics breakdowns.
 
 ### Power BI Dashboard
 - Open the `.pbix` file for interactive use
