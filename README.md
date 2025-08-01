@@ -100,6 +100,11 @@ This project integrates multiple structured datasets:
 ### Power BI Dashboard
 - Open the `Dashboard.pbix` file for interactive use
 - Ideal for business reviews, stakeholder presentations, and portfolio demonstrations
+- ## 📷 Dashboard Preview
+
+![Power BI Dashboard Overview](https://github.com/user-attachments/assets/f631c697-58e3-41b8-a189-8cacd214061c)
+
+
 
 ---
 
