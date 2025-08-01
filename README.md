@@ -98,7 +98,7 @@ This project integrates multiple structured datasets:
 - Refer to `EDA_1.pdf` and the Jupyter notebooks for full code, comments, and analytics breakdowns.
 
 ### Power BI Dashboard
-- Open the `.pbix` file for interactive use
+- Open the `Dashboard.pbix` file for interactive use
 - Ideal for business reviews, stakeholder presentations, and portfolio demonstrations
 
 ---
