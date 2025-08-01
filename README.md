@@ -23,12 +23,12 @@ Welcome to the **Exploratory Data Analysis (EDA)** project for the XYZ Co. regio
 ## 🧰 Data Sources
 This project integrates multiple structured datasets:
 
-- **Sales Orders:** Line-item sales transaction data
-- **Customers:** Customer identifiers and metadata
-- **Products:** Product information and pricing
-- **Regions:** Geographic data (city, county, state)
-- **State Regions:** State-to-region mappings
-- **2017 Budgets:** Budget targets for the year by product and region
+- **Sales Orders**
+- **Customers** 
+- **Products** 
+- **Regions** 
+- **State Regions** 
+- **2017 Budgets** 
 
 ---
 
@@ -43,7 +43,6 @@ This project integrates multiple structured datasets:
 - **Total Cost**: Captures expense per line item
 - **Profit & Profit Margin**: Profitability metrics
 - **Order Month (Name & Number)**: Enables time-series and seasonal analyses
-- **Region Mapping**: For advanced geographic slicing
 
 ### 3. Exploratory Data Analysis (EDA)
 
