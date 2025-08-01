@@ -106,7 +106,7 @@ This project integrates multiple structured datasets:
 ## 👨‍💻 Technologies Used
 - **Python**: pandas, numpy, matplotlib, seaborn
 - **Power BI**: Interactive dashboard creation
-- **Jupyter Notebook**: Data exploration & prototyping
+- **Jupyter Notebook**: Data exploration 
 - **Excel**: Raw data sources and budget tracking
 
 ---
