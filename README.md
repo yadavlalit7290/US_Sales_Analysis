@@ -126,5 +126,6 @@ Thank you for exploring this project! For questions, suggestions, or collaborati
 
 📧 Email: [yadavlalit7290@gmail.com](mailto:yadavlalit7290@gmail.com)  
 💼 LinkedIn: [linkedin.com/in/lalit-yad7290](https://www.linkedin.com/in/lalit-yad7290)
+
 💻 Portfolio: [lalit_yadav.github.io](https://yadavlalit7290.github.io/lalit_yadav.github.io/)
 
