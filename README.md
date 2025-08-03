@@ -124,7 +124,7 @@ This project integrates multiple structured datasets:
 
 Thank you for exploring this project! For questions, suggestions, or collaboration, feel free to connect:
 
-**Email**: yadavlalit7290@gmail.com  
-**GitHub**: [github.com/yadavlalit7290](https://github.com/yadavlalit7290)  
-**LinkedIn**: [linkedin.com/in/lalit-yad7290](http://www.linkedin.com/in/lalit-yad7290)
+📧 Email: [yadavlalit7290@gmail.com](mailto:yadavlalit7290@gmail.com)  
+💼 LinkedIn: [linkedin.com/in/lalit-yad7290](https://www.linkedin.com/in/lalit-yad7290)
+💻 Portfolio: [lalit_yadav.github.io](https://yadavlalit7290.github.io/lalit_yadav.github.io/)
 
